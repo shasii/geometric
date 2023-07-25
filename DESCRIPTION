@@ -1,0 +1,11 @@
+Package: geometric
+Type: Package
+Title: Geometric PDF, Mean, Variance
+Version: 0.1.0
+Author: Kompstat B Students
+Maintainer: Team 4 <21611103@students.uii.ac.id>
+Description: It'll help ypu count pdf, mean, and variance
+             of geometric distribution.
+License: 'GPL-2|GPL-3'
+Encoding: UTF-8
+LazyData: true
