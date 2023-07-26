@@ -11,7 +11,7 @@ var_geo(p)
 The variance of geometric
 }
 \description{
-Compute the variance of geometric
+Variansi adalah rata-rata ukuran seberapa jauh sebuah kumpulan bilangan tersebar, dalam suatu distribusi juga dihitung nilai variansinya termasuk distribusi geometrik yang dihitung menggunakan fungsi ini.
 }
 \examples{
 variance <- var_geo(0.6)
