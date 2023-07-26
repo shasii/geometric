@@ -5,13 +5,13 @@
 mean_geo(p)
 }
 \arguments{
-\item{p}{probability}
+\item{p}{probability of success}
 }
 \value{
 The mean of geometric
 }
 \description{
-Compute the The mean of geometric
+Mean pada distribusi geometrik adalah nilai ekspektasi X atau rata-rata dari distribusi geometrik
 }
 \examples{
 mean1 <- mean_geo(0.6)
