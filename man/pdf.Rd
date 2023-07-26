@@ -5,13 +5,14 @@
 density_geo(p,x)
 }
 \arguments{
-\item{p,x}{is the probability,data length}
+\item{p}{is the probability}
+{x}{is sum of experiment/trial}
 }
 \value{
 The pdf of geometric
 }
 \description{
-Compute the pdf of geometric
+Probability Density Function (PDF) atau fungsi kepadatan peluang adalah fungsi yang menunjukkan kemungkinan relatif terjadinya hasil yang berbeda dari variabel.
 }
 \examples{
 pdf1 <- density_geo(0.6,3)
