@@ -6,7 +6,7 @@ density_geo(p,x)
 }
 \arguments{
 \item{p}{is the probability}
-{x}{is sum of experiment/trial}
+\item{x}{is sum of experiment/trial}
 }
 \value{
 The pdf of geometric
